@@ -35,6 +35,7 @@ Displays this message.
 
 ## Credits
 * Text from [song lyrics (translations)](https://colorcodedlyrics.com/2017/01/loona-loo-idalui-sonyeo-lyrics-index) and [official MV descriptions](https://www.youtube.com/loonatheworld)~
+* Theme in screenshot: [Yoncé](https://github.com/minamarkham/yonce/blob/master/prompt.md) by [@MinaMarkham](https://www.github.com/minamarkham)
 * All lyrics are copyrighted to their respective copyright holders. No infringement of LOONA or BlockBerry Creative intended.
 * Based on [lorem-ipsum-cli](https://github.com/raicem/lorem-ipsum-cli)
 * Developer / Author: [@skullface](https://www.github.com/skullface)
