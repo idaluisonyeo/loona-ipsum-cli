@@ -68,7 +68,7 @@ exports.help = () => {
         Displays the version of this program.
 
     loonaipsum <anything-else>
-        Displays this help message.
+        Displays this message.
   `);
 
   process.exit();

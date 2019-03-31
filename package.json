@@ -1,5 +1,5 @@
 {
-  "name": "loonaipsum-cli",
+  "name": "loona-ipsum-cli",
   "version": "0.1.0",
   "description": "Generate LOOΠΔ-flavored placeholder text, right from the command line.",
   "main": "src/index.js",
